@@ -1,4 +1,4 @@
-# project-and-tasks
+# Project and Tasks (NodeJS API)
 Desafio 01 - Bootcamp GoStack 
 
 Criação de API RESTFul utilizando NodeJS.
